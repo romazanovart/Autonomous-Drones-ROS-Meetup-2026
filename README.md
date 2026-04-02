@@ -20,11 +20,19 @@
     <img src="https://github.com/user-attachments/assets/109e98a2-48ba-498d-8527-dac8aa6b07c6" alt="rounded-in-photoretrica">
 </div>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/7cab75f7-24a0-485e-9243-1c0de80042b0" alt="rounded-in-photoretrica">
+</div>
+
+
 ### Определение ArUco-маркеры _/ros2_camera_code/aruco_ai_code.py_
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/640fec59-8afd-4f2e-9b0f-d3ff21290376" alt="rounded-in-photoretrica">
 </div>
+
+
+
 
 # Описание работы кода для камеры:
 Все файлы для управления автономным полетом лежат в папке [_drone_navigation_](https://github.com/Artem-Romazanov/Autonomous-Drones-MISIS-Robotics-Week/tree/main/drone_navigation).
